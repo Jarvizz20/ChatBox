@@ -1,0 +1,4 @@
+
+# ChatBoxLos chatbots juegan un papel fundamental para las empresas, ya que pueden manejar sin esfuerzo un aluvión de consultas y mensajes de los clientes sin ningún tipo de ralentización. Han reducido por sí mismos la carga de trabajo del servicio de atención al cliente para nosotros, automatizando la mayor parte del proceso. Lo hacen utilizando técnicas respaldadas por la Inteligencia Artificial, el Aprendizaje Automático y la Ciencia de los Datos.
+
+Los chatbots trabajan analizando la información del cliente y respondiendo con una respuesta mapeada apropiada. Para entrenar al chatbot, se pueden usar Redes Neuronales Recurrentes con el conjunto de datos JSON intencionados mientras que la implementación puede ser manejada usando Python. Si quieres que tu chatbot sea de dominio específico o de dominio abierto depende de su propósito. A medida que estos chatbots procesan más interacciones, su inteligencia y precisión también aumentan.
